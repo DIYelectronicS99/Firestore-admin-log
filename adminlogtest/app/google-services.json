@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061552118265",
+    "firebase_url": "https://adminlogtest.firebaseio.com",
+    "project_id": "adminlogtest",
+    "storage_bucket": "adminlogtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061552118265:android:f98133aac6704ec41cc528",
+        "android_client_info": {
+          "package_name": "com.krishworks.adminlogtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061552118265-95ji7030r3eqkkf8369m7adsssj9onc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.krishworks.adminlogtest",
+            "certificate_hash": "eed849bf9ee4493ca256767c6a4718f9f12f178a"
+          }
+        },
+        {
+          "client_id": "1061552118265-nerhvl91ler07hvtetusq9og72r150u6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5D2L1D6ogm0mhlEPOaqvd4zdnpw_iuQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061552118265-nerhvl91ler07hvtetusq9og72r150u6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
